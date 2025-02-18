@@ -1,6 +1,6 @@
 # Philosophers
 
-![C Language](https://img.shields.io/badge/C-Programming-blue.svg) ![Makefile](https://img.shields.io/badge/Makefile-Build-orange.svg) ![Git](https://img.shields.io/badge/Git-Version%20Control-red.svg) ![Norminette](https://img.shields.io/badge/Norminette-Code%20Style-brightgreen.svg) ![POSIX Threads](https://img.shields.io/badge/POSIX-Pthreads-yellow.svg) ![OS: Linux](https://img.shields.io/badge/OS-Linux-lightgrey.svg)
+![C Language](https://img.shields.io/badge/C-Programming-blue.svg) ![Makefile](https://img.shields.io/badge/Makefile-Build-orange.svg) ![Git](https://img.shields.io/badge/Git-Version%20Control-red.svg) ![Norminette](https://img.shields.io/badge/Norminette-Code%20Style-brightgreen.svg) ![POSIX Threads](https://img.shields.io/badge/POSIX-Pthreads-yellow.svg)
 
 ## 📌 Descripción
 
